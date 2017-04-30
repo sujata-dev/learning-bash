@@ -1,5 +1,5 @@
 #Shell script to calculate no. of words, characters and spaces of a given
-#string. And find out whether given character is vowel or consonant.
+#string. And find out whether given character is vowel or consonant
 echo -e "\n1)Enter string"
 echo -e "2)Enter character"
 echo -e "Enter choice: "
